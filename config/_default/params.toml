@@ -65,11 +65,11 @@ customJS = []
   # nd = true # No derivatives or adaptations of your work are permitted.
   # sa = true # Adaptations must be shared under the same terms.
 
-[utterances]
-  repo = "razonyang/hugo-theme-bootstrap"
-  #issueTerm = "pathname" # pathname, url, title, og:title
-  #label = "comment"
-  theme = "github-dark" # github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+#[utterances]
+#  repo = "razonyang/hugo-theme-bootstrap"
+#  #issueTerm = "pathname" # pathname, url, title, og:title
+#  #label = "comment"
+#  theme = "github-dark" # github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
 
 [search]
   paginate = 5 # Pagination. Default to 10.
