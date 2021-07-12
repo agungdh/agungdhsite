@@ -1,0 +1,6 @@
+name = "Agung Sapto Margono Dh"
+avatar = "images/profile.jpg" # Avatar image. Default to "images/profile.webp".
+bio = "Programmer"
+company = "BPKAD Lampung Tengah"
+location = "Lampung Tengah, Lampung, Indonesia"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
